@@ -17,13 +17,9 @@ Tech Stack:
 
 ![image](https://github.com/user-attachments/assets/f72b33a8-31c2-42d6-aef4-d63c42c2d256)
 
-## Upload your Resume:
+## Upload your Resume
 
-![image](https://github.com/user-attachments/assets/6de9ddfd-00d0-4383-8481-b7b418cdbc64)
-
-## Resume Analysis:
-
-![image](https://github.com/user-attachments/assets/fc6de590-8e78-473e-8667-304b906d1eae)
+## Resume Analysis
 
 ## ATS Score and Resume Improvement Tips:
 
@@ -42,8 +38,6 @@ Tech Stack:
 ![image](https://github.com/user-attachments/assets/9cb92daa-cc9b-4f82-9ac7-127c610954ec)
 
 ## Downloadable report(CSV):
-
-![image](https://github.com/user-attachments/assets/ab7a1e5c-57a5-435a-ac68-97af53035816)
 
 ## Pie Chart Analysis:
 
